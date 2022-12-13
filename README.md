@@ -1,6 +1,7 @@
 # Data-Wizard
 Data Wizard is an open source piece of software that acts as a file and application manager. This project was originally built to help with Hackintoshing.
-Please note: Data Wizard is currently is an open BETA.
+
+**Please note: Data Wizard is currently is an open BETA.**
 
 # How to install Data Wizard?
 1. Download the Data Wizard file that corresponds to your OS.
@@ -18,4 +19,6 @@ System preferences:
 File Transferring:
 - file.edit
 - file.tra
+
+**Note: All other important commands can be seen by typing "help" in the program.**
 
