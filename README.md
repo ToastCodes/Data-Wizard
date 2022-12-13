@@ -7,3 +7,15 @@ Please note: Data Wizard is currently is an open BETA.
 2. Place the file on your desktop.
 3. Open the file. You will see 3 programs.
 4. Run "DataWizard.py" Note: do NOT run in IDLE.
+5. Good Luck on your Data Wizard adventure!
+
+# Basic Commands and Info:
+System preferences:
+- syst.pref
+- syst.ops
+- syst.cha
+
+File Transferring:
+- file.edit
+- file.tra
+
