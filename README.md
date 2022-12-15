@@ -10,14 +10,6 @@ Data Wizard is an open source piece of software that acts as a file and applicat
 4. Run "DataWizard.py" Note: do NOT run in IDLE.
 5. Good Luck on your Data Wizard adventure!
 
-# What file do I download?
-File Types:
-- If file type is ".exe" it ONLY works with Windows.
-- If file type is ".dmg" it ONLY works with macOS.
-- If you download the wrong file, it will not work.
-
-**Note: Data Wizard does NOT support Linux... Yet**
-
 # Basic Commands and Info:
 System Preferences:
 - syst.pref
