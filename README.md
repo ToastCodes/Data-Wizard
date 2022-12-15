@@ -28,5 +28,5 @@ File Transferring:
 - file.edit
 - file.tra
 
-**Note: All other important commands can be seen by typing "help" in the program.**
+**Note: All other important commands can be seen by typing "help" in the console.**
 
