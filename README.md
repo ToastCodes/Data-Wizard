@@ -12,13 +12,13 @@ Data Wizard is an open source piece of software that acts as a file and applicat
 
 # Basic Commands and Info:
 System Preferences:
-- syst.pref
-- syst.ops
-- syst.cha
+- syst.pref - view your set Data Wizard preferences.
+- syst.ops - set your preferences.
+- syst.cha - change your prefernces.
 
 File Transferring:
-- file.edit
-- file.tra
+- file.edit - edit the file selected.
+- file.tra - move the file to a different location.
 
 **Note: All other important commands can be seen by typing "help" in the console.**
 
