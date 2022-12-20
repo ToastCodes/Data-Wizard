@@ -22,3 +22,6 @@ File Transferring:
 
 **Note: All other important commands can be seen by typing "help" in the console.**
 
+# Things To Note About Hackintoshing:
+1. A hackintoshed PC is not a daily driver, it is incredibly unstable and is more of a fun project.
+2. 
