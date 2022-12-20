@@ -24,4 +24,11 @@ File Transferring:
 
 # Things To Note About Hackintoshing:
 1. A hackintoshed PC is not a daily driver, it is incredibly unstable and is more of a fun project.
-2. 
+2. Time and patience, hackintoshing is very time consuming. 
+3. Know your hardware, know what the specs of your GPU, CPU and RAM.
+4. You need basic knowledge of CMD (Command Prompt)
+5. 16GB USB to put macOS on.
+6. You also need 30GB of free space on your device.
+7. Have latest BIOS installed.
+
+**Note: Hackintoshing can cause rage :D**
