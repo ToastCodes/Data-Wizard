@@ -31,4 +31,9 @@ File Transferring:
 6. You also need 30GB of free space on your device.
 7. Have latest BIOS installed.
 
+# Have you installed an OS before?
+
+- Hackintoshing starts the same way installing any OS starts.
+- If you have not installed an OS before it is worth practicing by installing Linux onto a device of on a virtual machine.
+
 **Note: Hackintoshing can cause rage :D**
