@@ -35,5 +35,5 @@ File Transferring:
 
 - Hackintoshing starts the same way installing any OS starts.
 - If you have not installed an OS before it is worth practicing by installing Linux onto a device of on a virtual machine.
-
+- If you have not installed an OS before I would not recommend Hackintoshing as it will come as a shock to the difficulty.
 **Note: Hackintoshing can cause rage :D**
